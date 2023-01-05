@@ -1,0 +1,7 @@
+model,best_accuracy,best_parameters
+Logistics_Regression,0.9627497460209956,"{'C': 90, 'solver': 'lbfgs'}"
+SVC,0.9635963427023366,"{'C': 10, 'gamma': 1, 'kernel': 'linear'}"
+MultinomialNB,0.9375211649170335,"{'alpha': 0.5, 'fit_prior': True}"
+Decision_Tree,0.9448018963765662,{}
+XGBClassifier,0.9476803250931256,{}
+Random_Forest,0.9586860819505587,"{'criterion': 'gini', 'max_depth': None, 'n_estimators': 95}"
